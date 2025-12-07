@@ -1,39 +1,23 @@
+金牌
 
-DeepSeek
-梁文锋
 俄乌冲突
+俄罗斯
 美国
-台海
-日本
+
+欧盟
+北约
+五常
+
+核武
+
+台湾
++日本
+
 华为
-鸿蒙
-HarmonyOS
-华为
 
-比亚迪
-王传福
+世界杯
 
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-梁其伟
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
+火箭
 
 微软
 Microsoft
@@ -48,13 +32,6 @@ AMD
 google
 gemini
 deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -85,8 +62,6 @@ ai
 
 水电站
 雅鲁藏布江
-
-新质生产力
 
 月球
 登月
